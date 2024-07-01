@@ -1,0 +1,1 @@
+### This is a demo project of implementing Firebase Authentication into SwiftUI project. You can get the tutorial from [DevSwiftly.com](https://devswiftly.com/add-firebase-authentication-to-your-swiftui-app/). 
